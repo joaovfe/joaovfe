@@ -34,3 +34,5 @@ jobs:
         git add assets/pacman/pacman.gif
         git commit -m "Add generated Pacman GIF"
         git push origin main
+      env:
+        GH_TOKEN: ${{ secrets.GH_TOKEN }}
