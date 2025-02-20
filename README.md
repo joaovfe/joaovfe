@@ -1,5 +1,8 @@
 # Welcome to my profile 👋
 
+
+![Pac-Man Animation](assets/pacman/pacman.gif)
+
 ## 📊 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovfe&layout=compact&theme=radical) ![Joaovfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovfe&show_icons=true&theme=radical)  
 ---

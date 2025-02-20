@@ -1,0 +1,41 @@
+name: Generate PacMan Animation
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  generate_pacman:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+      
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+      
+      - name: Install dependencies
+        run: |
+          pip install pillow
+      
+      - name: Generate PacMan Frames
+        run: |
+          python pacman.py
+
+      - name: Convert frames to GIF
+        run: |
+          convert -delay 10 -loop 0 assets/pacman/*.png assets/pacman/pacman.gif
+
+      - name: Commit PacMan GIF to repository
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email 'actions@github.com'
+          git add assets/pacman/pacman.gif
+          git commit -m 'Add PacMan animation GIF'
+          git push
