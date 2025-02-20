@@ -1,44 +1,28 @@
 name: Generate PacMan Animation
 
-on:
-  push:
-    branches:
-      - main
-  schedule:
-    - cron: '0 * * * *'
+on: [push, pull_request]
 
 jobs:
-  generate_pacman:
+  build:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v2
-      
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.x'
+    - name: Checkout repository
+      uses: actions/checkout@v2
 
-      - name: Install ImageMagick
-        run: sudo apt-get install imagemagick
-      
-      - name: Install dependencies
-        run: |
-          pip install pillow
-      
-      - name: Generate PacMan Frames
-        run: |
-          python assets/pacMan.py
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: 3.x
 
-      - name: Convert frames to GIF
-        run: |
-          convert -delay 10 -loop 0 assets/pacman/*.png assets/pacman/pacman.gif
+    - name: Install dependencies
+      run: pip install pillow
 
-      - name: Commit PacMan GIF to repository
-        run: |
-          git config --global joaovfe'GitHub Actions'
-          git config --global joaovitorfespindola@gmail.com 'actions@github.com'
-          git add assets/pacman/pacman.gif
-          git commit -m 'Add PacMan animation GIF'
-          git push
+    - name: Install ImageMagick
+      run: sudo apt-get update && sudo apt-get install -y imagemagick
+
+    - name: Run PacMan script
+      run: python assets/pacMan.py
+
+    - name: Create GIF from PNGs
+      run: convert -delay 10 -loop 0 assets/pacman/*.png assets/pacman/pacman.gif
