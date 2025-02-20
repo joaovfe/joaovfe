@@ -29,8 +29,8 @@ jobs:
 
         - name: Commit generated GIF
         run: |
-          git config user.name "GitHub Actions"
-          git config user.email "github-actions@github.com"
+          git config joaovfe "GitHub Actions"
+          git config joaovitorfespindola@gmail.com "github-actions@github.com"
           git add assets/pacman/pacman.gif
           git commit -m "Add generated Pacman GIF"
           git push origin main
