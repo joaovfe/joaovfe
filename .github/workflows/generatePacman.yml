@@ -26,7 +26,7 @@ jobs:
       
       - name: Generate PacMan Frames
         run: |
-          python pacman.py
+          python assets/pacman.py
 
       - name: Convert frames to GIF
         run: |
