@@ -1,32 +1,7 @@
-# Welcome to my profile 👋  
-
-## 🚀 About Me  
-My name is **João Vitor Figueiredo Espindola**, and I'm from **Brazil**.  
-Currently I'm pursuing a **Bachelor's degree in Software Engineering**.   
----
-
-## 🔥 Main Skills  
-- **Flutter**  
-- **React**  
-- **SQL & NoSQL Databases**  
-- **Docker**  
-- **Vue**  
-- **NestJs**  
-- **Electron**  
-- **PHP**  
-- **Laravel**  
-- **AdonisJs**  
----
-
-## 🌟 Nice Projects  
-✅ **Expenses app to manage your finances** 
-
----
+# Welcome to my profile 👋
 
 ## 📊 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovfe&layout=compact&theme=radical) ![Joaovfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovfe&show_icons=true&theme=radical)  
-
-
 ---
 
 ## 📩 Contact Me  
