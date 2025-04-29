@@ -1,7 +1,7 @@
 # Welcome to my profile 👋
 
 
-![snake gif](https://github.com/joaovfe/joaovfe/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/joaovfe/joaovfe/blob/output/github-contribution-grid-snake.gif)
 
 
 ## 📊 GitHub Stats  
