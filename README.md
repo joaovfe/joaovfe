@@ -4,7 +4,7 @@
 ![Snake animation](https://raw.githubusercontent.com/FabrWill/FabrWill/c079651a757a2b5a953672f199e6371c39b5f6a9/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Stats  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovfe&layout=compact&theme=radical) ![Joaovfe's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaovfe&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovfe&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovfe&theme=radical) 
 ---
 
 ## 📩 Contact Me  
