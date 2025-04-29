@@ -1,7 +1,7 @@
 # Welcome to my profile 👋
 
 
-![Snake animation](https://raw.githubusercontent.com/joaovfe/joaovfe/c079651a757a2b5a953672f199e6371c39b5f6a9/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/joaovfe/joaovfe/89b25bd409da8df28a6fa44230134c1126469f30/github-contribution-grid-snake.svg)
 
 ## 📊 GitHub Stats  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joaovfe&layout=compact&theme=radical) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=joaovfe&theme=radical)
