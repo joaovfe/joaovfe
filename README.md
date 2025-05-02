@@ -1,31 +1,45 @@
-# Welcome to my profile 👋
+<p align="left">Welcome to my profile 👋</p>
 
-Hi! I'm João Vitor, a passionate Full Stack and Mobile Developer based in Brazil.  
-I have hands-on experience building scalable and modern applications using technologies like **NestJS**, **Spring Boot**, **Flutter**, **React**, **AdonisJS**, and **Laravel**.  
-I'm always eager to learn, innovate, and contribute to impactful projects. I value clean code, performance, and building solutions that make a difference.
+###
 
-<!-- ![snake gif](https://github.com/joaovfe/joaovfe/blob/output/github-contribution-grid-snake.gif) -->
+<p align="left">Hi! I'm João Vitor, Full Stack and Mobile Developer based in Brazil.  <br>I have hands-on experience building scalable and modern applications using technologies like **NestJS**, **Spring Boot**, **Flutter**, **React**, **AdonisJS**, and **Laravel**.  <br>I'm always eager to learn, innovate, and contribute to impactful projects. I value clean code, performance, and building solutions that make a difference.</p>
 
+###
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joaovfe&show_icons=true&theme=tokyonight&hide=issues&count_private=true)[![trophy](https://github-profile-trophy.vercel.app/?username=joaovfe&theme=radical&row=1&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaovfe.joaovfe&"  />
+</div>
 
+###
 
-![Profile Views](https://komarev.com/ghpvc/?username=joaovfe&color=blueviolet)
----
+<h2 align="left">💻 Tech stack</h2>
 
-## Tech stack
-![NestJS](https://img.shields.io/badge/-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&label=)
-![Spring Boot](https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&label=)
-![Flutter](https://img.shields.io/badge/-02569B?style=for-the-badge&logo=flutter&logoColor=white&label=)
-![React](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label=)
-![Laravel](https://img.shields.io/badge/-F55247?style=for-the-badge&logo=laravel&logoColor=white&label=)
-![AdonisJS](https://img.shields.io/badge/-220052?style=for-the-badge&logo=adonisjs&logoColor=white&label=)
+###
 
+<div align="left">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white&style=for-the-badge" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/AdonisJS-5A45FF?logo=adonisjs&logoColor=white&style=for-the-badge" height="40" alt="adonisjs logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=black&style=for-the-badge" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white&style=for-the-badge" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white&style=for-the-badge" height="40" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
+</div>
 
-## 📩 Contact Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jo%C3%A3o-vitor-figueiredo-espindola-3605102a4/)) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorfespindola@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaovfe)   
+###
 
+<img src="https://raw.githubusercontent.com/joaovfe/joaovfe/output/snake.svg" alt="Snake animation" />
 
-
+###
