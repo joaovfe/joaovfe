@@ -12,8 +12,8 @@ I'm always eager to learn, innovate, and contribute to impactful projects. I val
   <img alt="github-snake" src="https://raw.githubusercontent.com/joaovfe/joaovfe/output/github-snake.svg" />
 </picture>
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaovfe.joaovfe&"  />
+<div align="left" style="margin-top: 20px;">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=joaovfe.joaovfe&" />
 </div>
 
 
