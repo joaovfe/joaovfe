@@ -1,21 +1,20 @@
-<p align="left">Welcome to my profile 👋</p>
+# Welcome to my profile 👋
 
-###
+Hi! I'm João Vitor, Full Stack and Mobile Developer based in Brazil.  
+I have hands-on experience building scalable and modern applications using technologies like **NestJS**, **Spring Boot**, **Flutter**, **React**, **AdonisJS**, and **Laravel**.  
+I'm always eager to learn, innovate, and contribute to impactful projects. I value clean code, performance, and building solutions that make a difference.
 
-<p align="left">Hi! I'm João Vitor, Full Stack and Mobile Developer based in Brazil.  <br>I have hands-on experience building scalable and modern applications using technologies like **NestJS**, **Spring Boot**, **Flutter**, **React**, **AdonisJS**, and **Laravel**.  <br>I'm always eager to learn, innovate, and contribute to impactful projects. I value clean code, performance, and building solutions that make a difference.</p>
+<!-- ![snake gif](https://github.com/joaovfe/joaovfe/blob/output/github-contribution-grid-snake.gif) -->
 
-###
+![Profile Views](https://komarev.com/ghpvc/?username=joaovfe&color=blueviolet)
+---
+
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=joaovfe.joaovfe&"  />
 </div>
 
-###
-
-<h2 align="left">💻 Tech stack</h2>
-
-###
-
+## 💻 Tech stack
 <div align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -36,10 +35,9 @@
   <img src="https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge" height="40" alt="laravel logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=black&style=for-the-badge" height="40" alt="vuejs logo"  />
-</div>
+</div
 
-###
-
-<img src="https://raw.githubusercontent.com/joaovfe/joaovfe/output/snake.svg" alt="Snake animation" />
-
-###
+## 📩 Contact Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-vitor-figueiredo-espindola-3605102a4/) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaovitorfespindola@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaovfe) 
