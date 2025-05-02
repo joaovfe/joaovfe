@@ -6,13 +6,18 @@ I'm always eager to learn, innovate, and contribute to impactful projects. I val
 
 <!-- ![snake gif](https://github.com/joaovfe/joaovfe/blob/output/github-contribution-grid-snake.gif) -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=joaovfe&color=blueviolet)
----
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/joaovfe/joaovfe/output/github-snake.svg" />
+</picture>
 
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=joaovfe.joaovfe&"  />
 </div>
+---
+
+
 
 ## 💻 Tech stack
 <div align="left">
