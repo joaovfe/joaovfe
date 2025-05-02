@@ -15,8 +15,6 @@ I'm always eager to learn, innovate, and contribute to impactful projects. I val
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=joaovfe.joaovfe&"  />
 </div>
----
-
 
 
 ## 💻 Tech stack
