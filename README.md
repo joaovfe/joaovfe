@@ -15,12 +15,12 @@ I'm always eager to learn, innovate, and contribute to impactful projects. I val
 ---
 
 ## Tech stack
-![NestJS](https://img.shields.io/badge/-E0234E?style=flat&logo=nestjs&logoColor=white&label=)
-![Spring Boot](https://img.shields.io/badge/-6DB33F?style=flat&logo=spring-boot&logoColor=white&label=)
-![Flutter](https://img.shields.io/badge/-02569B?style=flat&logo=flutter&logoColor=white&label=)
-![React](https://img.shields.io/badge/-20232A?style=flat&logo=react&logoColor=61DAFB&label=)
-![Laravel](https://img.shields.io/badge/-F55247?style=flat&logo=laravel&logoColor=white&label=)
-![AdonisJS](https://img.shields.io/badge/-220052?style=flat&logo=adonisjs&logoColor=white&label=)
+![NestJS](https://img.shields.io/badge/-E0234E?style=for-the-badge&logo=nestjs&logoColor=white&label=)
+![Spring Boot](https://img.shields.io/badge/-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white&label=)
+![Flutter](https://img.shields.io/badge/-02569B?style=for-the-badge&logo=flutter&logoColor=white&label=)
+![React](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&label=)
+![Laravel](https://img.shields.io/badge/-F55247?style=for-the-badge&logo=laravel&logoColor=white&label=)
+![AdonisJS](https://img.shields.io/badge/-220052?style=for-the-badge&logo=adonisjs&logoColor=white&label=)
 
 
 ## 📩 Contact Me  
